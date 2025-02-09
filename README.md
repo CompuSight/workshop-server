@@ -1,4 +1,4 @@
-# workshop-server
+# SimplyCode Internet Workshop Web Server Template
 This is the website template for a server demonstration in a workshop provided by SimplyCode in March 2025
 
 ::: warn
